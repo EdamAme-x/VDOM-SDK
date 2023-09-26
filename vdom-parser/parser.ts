@@ -5,9 +5,5 @@ export function Parser(vdom: Vdom): Element {
 
     let result = "";
 
-    for (let i = 0; i < vdom.children.length; i++) {
-        
-    }
-
     return {};
 }
